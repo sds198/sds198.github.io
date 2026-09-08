@@ -26,7 +26,7 @@ leadership to keep the org moving at startup speed.
 {
   "years_experience": "9+",
   "headcount_growth_led": "50 -> 100 employees (2x in 12 months)",
-  "hires_delivered": "60+ across 7 functions",
+  "hires_delivered": "120+ across 7 functions",
   "team_leadership": "2 direct reports, distributed (US / NZ)",
   "ai_tools_deployed": ["Claude Code", "Claude Cowork", "Cursor"],
   "ai_rollout_scope": ["Engineering", "GTM", "Ops", "People"],
@@ -104,7 +104,7 @@ const impact = [
 ];
 
 const results = {
-  hires:                                  "60+ across 7 functions",
+  hires:                                  "120+ across 7 functions",
   headcount_growth:                       "50 -> 100 employees in 12 months (100% YoY)",
   female_representation_engineering:      "30%",
   female_representation_support_eng:      "50%"

@@ -53,12 +53,12 @@ const impact = [
   "Built the People function from 0 -> 1: engagement programs, feedback loops, and company-wide rituals (All Hands, 1:1s, standups) that drove retention.",
   "Design and maintain HR policy and compliance frameworks across every jurisdiction the company employs in — standardising global contracts and managing Remote (EOR) for international employment.",
   "Own end-to-end business restructures — partnering directly with external lawyers and finance to manage process, risk, and communications.",
-  "Own Factor House's AI transformation end-to-end across Engineering, GTM, Ops, and People — defined the adoption roadmap and ran org-wide enablement.",
-  "Deployed the company's AI tooling stack (Claude Code, Claude Cowork, Cursor) — shipped internal playbooks, prompt libraries, and usage guardrails now used org-wide.",
+  "Deployed the company's AI tooling stack (Claude Code, Claude Cowork) — shipped internal playbooks, prompt libraries, and usage guardrails now used org-wide.",
   "Built the AI literacy & learning program: onboarding, weekly office hours, and role-specific workshops that lifted every team's baseline capability.",
   "Re-engineered hiring as a system — instrumented the full funnel, automated manual workflows, and shipped live talent analytics dashboards that drive data-informed people decisions for leadership.",
   "Partner directly with founders and senior leadership on org design and headcount planning, influencing stakeholders through periods of structural change.",
-  "Coach managers and senior leaders 1:1 on leadership development and performance management, building high-performing teams."
+  "Coach managers and senior leaders 1:1 on leadership development and performance management, building high-performing teams.",
+  "Established and play a key role on the company's leadership team, delivering fortnightly updates on people initiatives and operational improvements."
 ];
 
 const stack = [
